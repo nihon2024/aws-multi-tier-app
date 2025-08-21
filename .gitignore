@@ -6,3 +6,5 @@ override.tf
 override.tf.json
 crash.log
 tfplan
+.terraform.lock.hcl
+*.auto.tfvars
